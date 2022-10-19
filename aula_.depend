@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666135527 source:c:\users\aluno\desktop\salat\aula_4\aula_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"cabecalho.h"
+
+1666135133 c:\users\aluno\desktop\salat\aula_4\aula_\cabecalho.h
+
